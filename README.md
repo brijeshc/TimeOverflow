@@ -1,14 +1,12 @@
-# Welcome to your Expo app 👋
+# Welcome to TimeOverflow ⏳
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+TimeOverflow is an [Expo](https://expo.dev) mobile application for effective time management and productivity tracking.
 
 ## Get started
 
 1. Install dependencies
 
-   ```bash
    npm install
-   ```
 
 2. Start the app
 
